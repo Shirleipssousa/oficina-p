@@ -1,0 +1,115 @@
+*{ margin: 0;
+padding: 0;
+color: rgba(19, 22, 224, 0.671)
+}
+
+body{
+    
+background-repeat: no-repeat;
+
+position: absolute; 
+background-color: rgba(27, 11, 11, 0.836);
+}
+.bac{ background-color: rgba(235, 207, 248, 0.466);
+width: 100%;
+height: 93px;
+  border-radius: 18px;
+
+}
+body .title{
+    margin-right: 100%;
+    margin-left: 1%;
+   
+    color: rgb(250, 250, 250);
+    font-size: 88px;
+    font-weight: bold;
+    font-family:  'Trebuchet MS', sans-serif;
+   width: 100%;
+  max-width: 100%;
+
+}
+
+
+/*
+.img img{
+ /*   background: no-repeat;
+    
+    background-position: center;
+
+
+
+opacity: 0.3;
+height: 600px;
+
+background-repeat: repeat-y;
+}
+  */
+ 
+
+
+/*
+ul {text-align: right;
+    display: flex;  
+    display: inline;  
+     
+    font-size: 38px;
+    
+    font-family: 'Courier New';
+   
+    margin-left:43%;
+    
+    max-width: max-content;
+}
+*/
+/*li{
+    font-size: 25px;
+    font-family:  Verdana, sans-serif;
+    list-style-type: none;
+    display: inline-block;
+    text-decoration: none;
+    color: rgba(19, 22, 224, 0.61);
+    margin-bottom: 7%;
+    width: 12%;
+}
+*/
+  .container{ 
+    display: flex;
+    margin-top: 185px;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    
+    }
+ 
+
+
+.group-services {
+        width: 250px;
+    
+       
+    }
+    .group-services img {
+        width: 100%;
+        border-style: solid;
+        border-color: rgba(59, 58, 58, 0.719)  rgba(59, 58, 58, 0.719) rgba(59, 58, 58, 0.719) rgba(59, 58, 58, 0.719);
+        border-width: 25px 23px 23px;
+    }
+    .group-services h1 {
+        
+        color:white;
+    }
+    .group-services  p{
+        color: white;
+
+    }
+     .vazio{
+        background-color: rgba(235, 218, 218, 0.671);
+      width: 1600px;
+      height: 600px;
+        border-radius: 8px;
+
+     }
+      .servi{
+        display: flex;
+        display: inline-block;
+        font-size:0.8rem;
+      }
